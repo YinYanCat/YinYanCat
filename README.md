@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @YinYanCat (Chloe)
+- 👋 Hi, I’m @YinYanCat
 - 🌱 I’m currently learning: Pandas, scikit-learn
-- 😄 Pronouns: she/her
 
 <!---
 YinYanCat/YinYanCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
